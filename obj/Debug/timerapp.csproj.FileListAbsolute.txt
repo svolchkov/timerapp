@@ -1,0 +1,14 @@
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\bin\Debug\timerapp.dll
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\bin\Debug\timerapp.pdb
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\bin\Debug\timerapp.timerapp.apk
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\bin\Debug\timerapp.timerapp-Signed.apk
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\obj\Debug\timerapp.dll
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\obj\Debug\timerapp.pdb
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\obj\Debug\android\bin\timerapp.timerapp.apk
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\obj\Debug\res\layout\main.xml
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\obj\Debug\res\values\strings.xml
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\obj\Debug\res\drawable\icon.png
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\obj\Debug\R.cs.flag
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\obj\Debug\uploadflags.txt
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\obj\Debug\timerapp.dll.mdb
+c:\users\sergeyv\documents\visual studio 2015\Projects\timerapp\timerapp\bin\Debug\timerapp.dll.mdb
